@@ -1,0 +1,12 @@
+coverage:
+  status:
+    project:
+      api:
+        paths:
+          - packages/apollos-church-api/*
+      mobile:
+        paths:
+          - packages/apolloschurchapp/*
+comment:
+  layout: "reach, diff, files"
+  behavior: once
